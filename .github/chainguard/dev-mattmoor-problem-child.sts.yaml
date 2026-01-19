@@ -1,0 +1,24 @@
+# Copyright 2025 Chainguard, Inc.
+# SPDX-License-Identifier: Apache-2.0
+
+# Octo STS policy for Problem Child dev environment
+# Service account: problem-child@mattmoor-chainguard.iam.gserviceaccount.com
+
+issuer: https://accounts.google.com
+subject: "113013803493833608216"
+
+permissions:
+  # Issues reconciler: read issues, update labels and body
+  issues: write
+
+  # PRs reconciler: read PRs to evaluate them
+  pull_requests: read
+
+  # PRs reconciler: create/update check runs via status manager
+  checks: write
+
+  # Basic repo access
+  contents: read
+
+repositories:
+  - mattmoor-bespin-playground
