@@ -20,5 +20,8 @@ permissions:
   # Trigger and manage GitHub Actions workflows
   workflows: write
 
+  # Read check status
+  checks: read
+
 repositories:
   - mattmoor-bespin-playground
