@@ -8,20 +8,23 @@ issuer: https://accounts.google.com
 subject: "101531125799729172566"
 
 permissions:
-  # Create and push branches with solutions
+  # Read github actions logs
+  actions: read
+
+  # Read check status
+  checks: read
+
+  # Create and push branches
   contents: write
 
   # Create and update pull requests
   pull_requests: write
 
-  # Update issues with PR links
-  issues: write
+  # Read issues
+  issues: read
 
   # Trigger and manage GitHub Actions workflows
   workflows: write
-
-  # Read check status
-  checks: read
 
 repositories:
   - mattmoor-bespin-playground
