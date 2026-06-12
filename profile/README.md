@@ -66,3 +66,11 @@ collaboration and contribution.
 Get different sizes of the black, blurple, white, decorative, or horizontal
 versions of the logo from the [logo folder on
 GitHub](https://github.com/driftlessaf/.github/tree/main/profile/logo).
+
+## Resources
+
+* [Video recording](https://www.youtube.com/watch?v=hqyIGEWTL_U&pp=ygULZHJpZnRsZXNzYWY%3D)
+  and [presentation file](./assets/202605-open-source-summit-na-driftlessaf.pdf)
+  from [Manfred Moser](https://github.com/mosabua/) presenting "DriftlessAF, an
+  agentic reconciler framework proven at scale" at Open Source Summit NA in
+  Minneapolis in May 2026
