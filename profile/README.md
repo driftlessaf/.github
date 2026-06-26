@@ -69,8 +69,16 @@ GitHub](https://github.com/driftlessaf/.github/tree/main/profile/logo).
 
 ## Resources
 
-* [Video recording](https://www.youtube.com/watch?v=hqyIGEWTL_U&pp=ygULZHJpZnRsZXNzYWY%3D)
+* June 2026: [This Shit is Hard: How AI keeps our code on
+  standard](https://www.chainguard.dev/unchained/this-shit-is-hard-how-ai-keeps-our-code-on-standard)
+  blog post from [Maxime Gréau](https://github.com/mgreau) about DriftlessAF use
+  in Chainguard Factory
+* June 2026: [Video recording](https://www.youtube.com/watch?v=SQExn8MQGaw)
+  and [presentation file](./assets/202606-confidental-computing-summit-na-driftlessaf.pdf)
+  from [Manfred Moser](https://github.com/mosabua/) presenting "DriftlessAF, an
+  agentic reconciler framework proven at scale" at Confidential Computing Summit
+* May 2026: [Video recording](https://www.youtube.com/watch?v=hqyIGEWTL_U&pp=ygULZHJpZnRsZXNzYWY%3D)
   and [presentation file](./assets/202605-open-source-summit-na-driftlessaf.pdf)
   from [Manfred Moser](https://github.com/mosabua/) presenting "DriftlessAF, an
   agentic reconciler framework proven at scale" at Open Source Summit NA in
-  Minneapolis in May 2026
+  Minneapolis
