@@ -24,7 +24,8 @@ the desired state.
 ## Practical use
 
 Chainguard uses DriftlessAF as the foundation for numerous custom reconciler
-bots in Chainguard Factory. The factory is used to build and maintain over 2000
+bots in [Chainguard Factory](https://www.chainguard.dev/factory). The factory is
+used to build and maintain over 2000
 unique containers, hundreds of thousands of package versions, and hundreds of
 CVE patch backports. DriftlessAF replaces a legacy event-driven architecture and
 is critical to achieve the necessary efficiency and reliability at scale. 
@@ -69,6 +70,14 @@ GitHub](https://github.com/driftlessaf/.github/tree/main/profile/logo).
 
 ## Resources
 
+* September 3, 2026: [What it took to reach 1 billion build
+  manifests](https://www.chainguard.dev/unchained/what-it-took-to-reach-1-billion-build-manifests)
+  blog post from [Matt Moore](https://github.com/mattmoor) about the output and
+  scale DriftlessAF sustains in Chainguard Factory
+* September 2, 2026: [This Shit is Hard: Taming the Thundering
+  Herd](https://www.chainguard.dev/unchained/this-shit-is-hard-taming-the-thundering-herd)
+  blog post from [Matt Moore](https://github.com/mattmoor) about the persistent
+  work queue architecture and related scaling aspects of DriftlessAF
 * June 2026: [This Shit is Hard: How AI keeps our code on
   standard](https://www.chainguard.dev/unchained/this-shit-is-hard-how-ai-keeps-our-code-on-standard)
   blog post from [Maxime Gréau](https://github.com/mgreau) about DriftlessAF use
@@ -82,3 +91,14 @@ GitHub](https://github.com/driftlessaf/.github/tree/main/profile/logo).
   from [Manfred Moser](https://github.com/mosabua/) presenting "DriftlessAF, an
   agentic reconciler framework proven at scale" at Open Source Summit NA in
   Minneapolis
+* February 13, 2026: [This Shit is Hard: The life and death of a CVE in the
+  Chainguard
+  Factory](https://www.chainguard.dev/unchained/this-shit-is-hard-the-life-and-death-of-a-cve-in-the-chainguard-factory)
+  blog post from [Patrick Smyth](https://github.com/smythp) about a CVE fix
+  reconciled through Chainguard Factory
+* January 29, 2026: [DriftlessAF: Introducing Chainguard Factory
+  2.0](https://www.chainguard.dev/unchained/driftlessaf-introducing-chainguard-factory-2-0)
+  blog post from [Matt Moore](https://github.com/mattmoor), [Manfred
+  Moser](https://github.com/mosabua/), and [Maxime
+  Gréau](https://github.com/mgreau) introducing DriftlessAF and Chainguard
+  Factory 2.0
